@@ -1,0 +1,1 @@
+# Trollstore-Checker-2.0
