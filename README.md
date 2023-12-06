@@ -3,7 +3,7 @@
 - iPhones Only
 - But you can download iPad Beta
 
-# Guide for Download Trollstore Checker 2.0
+# Guide for Download Trollstore Checker 2.0 (iPad Beta)
 1. Start Shortcut
 2. Select iPad
 3. click on 'Download Beta' and now you is in releases
